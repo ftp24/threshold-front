@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+![encryption](public/Encrypt.svg)
+
+![decryption](public/Decrypt.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
